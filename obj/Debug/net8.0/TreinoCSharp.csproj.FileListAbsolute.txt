@@ -1,0 +1,14 @@
+C:\Users\Carlitos\Desktop\TreinoCSharp\bin\Debug\net8.0\TreinoCSharp.exe
+C:\Users\Carlitos\Desktop\TreinoCSharp\bin\Debug\net8.0\TreinoCSharp.deps.json
+C:\Users\Carlitos\Desktop\TreinoCSharp\bin\Debug\net8.0\TreinoCSharp.runtimeconfig.json
+C:\Users\Carlitos\Desktop\TreinoCSharp\bin\Debug\net8.0\TreinoCSharp.dll
+C:\Users\Carlitos\Desktop\TreinoCSharp\bin\Debug\net8.0\TreinoCSharp.pdb
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\TreinoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\TreinoCSharp.AssemblyInfoInputs.cache
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\TreinoCSharp.AssemblyInfo.cs
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\TreinoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\TreinoCSharp.dll
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\refint\TreinoCSharp.dll
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\TreinoCSharp.pdb
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\TreinoCSharp.genruntimeconfig.cache
+C:\Users\Carlitos\Desktop\TreinoCSharp\obj\Debug\net8.0\ref\TreinoCSharp.dll
